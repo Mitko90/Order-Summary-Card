@@ -63,6 +63,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-color: var(--clr-pale-blue);
+    background-position: top;
     color: var(--clr-desaturated-blue);
 }
 
