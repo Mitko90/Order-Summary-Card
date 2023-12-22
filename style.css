@@ -61,7 +61,7 @@ body{
     justify-content: center;
     background-image: url(images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-color: var(--clr-pale-blue);
     background-position: top;
     color: var(--clr-desaturated-blue);
